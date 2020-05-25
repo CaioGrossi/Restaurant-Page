@@ -1,0 +1,70 @@
+body {
+    background-image: url("../dist/imgs/interior_staircase_bar_75525_1920x1080.jpg");
+}
+
+header {
+    background-color: black;
+    opacity: 0.8;
+    padding: 20px;
+    margin-bottom: 8vh;
+}
+
+nav {
+    display: flex;
+    color: blanchedalmond;
+    justify-content: space-around;
+    font-size: 40px;
+}
+
+h3, p {
+    text-align: center;
+}
+
+#titulo {
+    flex-grow: 0.8;
+}
+
+#sobre {
+    background-color: black;
+    opacity: 0.8;
+    color: blanchedalmond;
+    text-align: center;
+    width: 50vw;
+    margin: auto;
+    font-size: 30px;
+    padding: 2%;
+}
+
+#menu {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding: 20px;
+    flex-wrap: wrap;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.imgProduto {
+    height: 150px;
+    width: 200px;
+}
+
+.produtoMenu {
+    padding: 15px;
+}
+
+.textoProduto {
+    text-align: center;
+    color: blanchedalmond;
+}
+
+#contatoDiv {
+    display: block;
+    margin: auto;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 20px;
+    border-radius: 20px;
+    width: 500px;
+}
