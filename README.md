@@ -1,3 +1,9 @@
 # Restaurant-Page
 
-Pagina feita para treinar configurações básicas do WebPack e sistema de módulos do node.
+Pagina fictícia de um restaurante feita em Javascript.
+
+## Estudado
+* Javascript no geral
+* Webpack
+* Node Modules
+
